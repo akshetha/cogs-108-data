@@ -1,4 +1,4 @@
-# COGS 108 - Macroeconomic Indicators and Media Sentiment as a Prediction Measure for Tech Layoffs
+# Macroeconomic Indicators and Media Sentiment as a Prediction Measure for Tech Layoffs
 
 ## Abstract
 
